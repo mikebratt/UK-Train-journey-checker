@@ -10,9 +10,15 @@ origin = 'MCO'
 departure = '1710'
 ```
 
+Add your Pushover token and key.
+
+```
+ "token": "APP_TOKEN", "user": "USER_KEY",
+```
+
 For station codes see here -> https://www.nationalrail.co.uk/stations_destinations/48541.aspx
 
-Requirements
+Requirements:
 ```
 requests
 beautifulsoup4
