@@ -11,3 +11,9 @@ departure = '1710'
 ```
 
 For station codes see here -> https://www.nationalrail.co.uk/stations_destinations/48541.aspx
+
+Requirements
+```
+requests
+beautifulsoup4
+```
